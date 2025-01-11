@@ -33,7 +33,7 @@ const SignIn = () => {
         <Image source={images.onboarding} className="w-full h-4/6" resizeMode="contain" />
         
         <View className='px-10'>
-          <Text className='text-base text-center uppercase font-rubik text-black-200'>Welcome to Muslim-Dua</Text>
+          <Text className='text-base text-center uppercase font-rubik text-black-200'>Welcome to Noor al-Qalb</Text>
           <Text className='text-3xl text-black-300 text-center font-rubik-bold mt-2'>Let's Get You Closer to {"\n"} <Text className='text-primary-300'>Your Ideal Home</Text> </Text>
           <Text className='text-lg text-center text-black-200 font-rubik mt-12'>Sign in to App with Google</Text>
 
